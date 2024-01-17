@@ -1,1 +1,10 @@
-<img width="960" alt="0 1" src="https://github.com/NHNeha123/ekalavya-cg-project/assets/128952025/75bcb97a-d7f3-4d70-af0e-093bd8605b17">
+<img width="960" alt="0" src="https://github.com/NHNeha123/ekalavya-cg-project/assets/128952025/75bcb97a-d7f3-4d70-af0e-093bd8605b17">
+<img width="960" alt="1" src="https://github.com/NHNeha123/ekalavya-cg-project/assets/128952025/acfc2dc3-b57f-4bc2-8953-941c8f1ae07a">
+<img width="960" alt="2" src="https://github.com/NHNeha123/ekalavya-cg-project/assets/128952025/5288b193-e2a3-4fc8-b86d-5a3c949bdea8">
+<img width="960" alt="3" src="https://github.com/NHNeha123/ekalavya-cg-project/assets/128952025/ae846591-e29c-451f-98c6-75986f167358">
+<img width="960" alt="4" src="https://github.com/NHNeha123/ekalavya-cg-project/assets/128952025/4a0bf696-7d13-4108-9b6f-2bce81c18d43">
+<img width="960" alt="5" src="https://github.com/NHNeha123/ekalavya-cg-project/assets/128952025/871d1835-3761-4ba0-bcc3-20590c5f5e2b">
+<img width="960" alt="6" src="https://github.com/NHNeha123/ekalavya-cg-project/assets/128952025/5f93b6aa-caba-43b9-9245-b2c86a12e4c8">
+<img width="960" alt="7" src="https://github.com/NHNeha123/ekalavya-cg-project/assets/128952025/5f1ed103-decf-4749-9870-f7580bb16175">
+<img width="960" alt="8" src="https://github.com/NHNeha123/ekalavya-cg-project/assets/128952025/34470763-026f-4e41-a4e5-87de8c80b210">
+<img width="960" alt="9" src="https://github.com/NHNeha123/ekalavya-cg-project/assets/128952025/88e93194-2650-43c5-8266-a242e5856875">
